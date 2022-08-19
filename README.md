@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brooke Ullery
 - 👀 I’m a math professor (algebraic geometry)
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning data science
 - 📫 brookeullery@gmail.com
 
 <!---
